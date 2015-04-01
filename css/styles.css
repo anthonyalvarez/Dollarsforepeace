@@ -55,3 +55,13 @@ body {
 	color: #999999;
 	font-size: 11px;
 }
+/* Pucho web Solutions additions: March 31, 2015*/
+
+.center {
+	background-color: inherit;
+	color: inherit;
+	font-family: inherit;
+	font-size: inherit;
+	font-weight:bold;
+	text-align:center;
+}

@@ -15,10 +15,12 @@ In fact, we even offer a very attractive bonus to both participants and sponsors
 Some people mistakenly feel this bonus payment represents a multi-level or pyramid sales practice, but such impression is extremely far from the truth. The fact is that your revenue at all times is only derived from the persons you directly enroll and no one else. If the parties you enlist produce more and you produce more, you earn a bonus. Such principle is at the heart of most any enterprise. Those who produce more value are normally paid more. Certainly a car salesman who sells a high-priced automobile is normally paid more than if he sells a cheaper model. A real estate salesman who sells a mansion normally makes more than if he sells a shack, and the list goes on and on. We hope this explanation settles this question.
 <br><br>
 In essence, we bring to you a most effective and easy way to help wipe out war, terrorism, and violence throughout the globe.  If anyone has a better way that fits in with our current world, let them come forth with it.  As Franklin Delano Roosevelt said late in his life, 
+<div class="center">
 <p>~LET US MAKE WAR IMPOSSIBLE TO PURSUE~</p>
 <p>
 AND WITHOUT CHANGING BUSINESS ACTIVITIES OR ANY OTHER COMMITMENTS, THOSE WHO HELP US CAN BENEFIT IN THEIR OWN LIVES AND MISSIONS TOO.
 </p>
+</div>
 </font>
 
 <br>
