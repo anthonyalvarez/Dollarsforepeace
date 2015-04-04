@@ -64,6 +64,8 @@ body {
 	font-size: inherit;
 	font-weight:bold;
 	text-align:center;
+	border-style: solid;
+    border-width: 1px;
 }
 p.textunderline {
 	text-decoration: underline;
