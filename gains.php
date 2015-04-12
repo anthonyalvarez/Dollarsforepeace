@@ -6,7 +6,7 @@
 		<link href="./css/styles.css" rel="stylesheet" type="text/css">
 	</head>
 	<body link="#666666" alink="#660000" vlink="#333333">
-		<table width="720" border="0" cellspacing="0" align="center" cellpadding="0"  style="background-color:Aqua">
+		<table width="720" border="0" cellspacing="0" align="center" cellpadding="0">
 			<tr>
 				<td width="720" valign="top" align="left">
 				<center>
