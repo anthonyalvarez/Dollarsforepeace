@@ -7,7 +7,7 @@
 		<link href="./css/styles.css" rel="stylesheet" type="text/css">
 		<style>
 			@media print {
-				#logo, #footer-nav {
+				#logo {
 					display: none;
 				}
 				@page {
