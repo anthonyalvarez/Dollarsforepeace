@@ -32,7 +32,7 @@ A contribution of $1,000 or more is required to be a sponsor, and the sponsor&#3
 <br><br>
 Enrollers of both participants and sponsors accrue all earnings but payments of those earnings are only made in minimum amounts of $100. Both sponsors and participants can enroll each other.
 <br><br>
-<b>Become a participant or a Sponsor</b>
+<b>Become a Participant or a Sponsor</b>
 </font>
 <br>
 
@@ -45,11 +45,6 @@ Enrollers of both participants and sponsors accrue all earnings but payments of 
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick">
 <input type="hidden" name="hosted_button_id" value="XY7DTMPA7RFZE">
-<font size="2">
-[&nbsp;&nbsp;] Enroller Receives Regular Fees
-<br>
-[&nbsp;&nbsp;] Enroller Receives ____ Percent of Donations
-</font>
 <br><br>
 
 <table align="center">

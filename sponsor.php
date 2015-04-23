@@ -1,6 +1,33 @@
-<?php
-include("html_head.html");
-?>
+<html>
+<head>
+<title>Dollars For Peace&trade;</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta http-equiv="keywords" content="Dollars For Peace, World Peace Society">
+<link href="./css/styles.css" rel="stylesheet" type="text/css">
+
+</head>
+
+<body link="#666666" alink="#660000" vlink="#333333">
+
+
+
+<table width="720" border="0" cellspacing="0" align="center" cellpadding="0" bgcolor="#FFFFFF">
+
+
+  <tr> 
+    <td width="720" valign="top" align="left">
+    <table width="100%" border="0" cellpsacing="0" cellpadding="0">
+<center />
+                
+    <tr>
+
+<center>
+<a href="index.php">
+<font size="6">
+	<b>DOLLARS FOR PEACE&trade;</b>
+</font>
+</a>
+
 <br>
 <br>
 <font size="4"><b>SPONSORS</b></font>
