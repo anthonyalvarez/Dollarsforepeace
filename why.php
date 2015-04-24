@@ -96,7 +96,7 @@ Enrollers of both participants and sponsors accrue all earnings but payments of 
 <br><br><br><br>
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick">
-<input type="hidden" name="hosted_button_id" value="XY7DTMPA7RFZE">
+<input type="hidden" name="hosted_button_id" value="6TVYJU78Q5HNL">
 
 <table align="center">
 <tr><td><input type="hidden" name="on0" value="Payment Options"><b>Sponsor Donation</b></td></tr>
