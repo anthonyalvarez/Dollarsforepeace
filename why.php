@@ -101,7 +101,7 @@ Enrollers of both participants and sponsors accrue all earnings but payments of 
 <table align="center">
 <tr><td><input type="hidden" name="on0" value="Payment Options"><b>Sponsor Donation</b></td></tr>
 <tr><td><select name="os0">
-    <option value="Option 5">$1000.00 USD - yearly&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</option>
+    <option value="Option 5">$1,000.00 USD - yearly&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</option>
 </select> 
 </td>
 <td>
