@@ -14,7 +14,7 @@ We also give an attractive incentive to participants who urge others to join our
 <br>
 Of the first $90 donated two-thirds is given to non-profit World Peace Society and one-third is earned by the enroller. Contributions in excess of $90 are divided 70% to non-profit World Peace Society and 30% to the enroller. <b>This program also offers a wonderful way to meet one&#39;s neighbors and make new friends.</b> 
 <br><br>
-Participants simply submit  their name, address, phone number, e-mail, and the name and number of the one enrolling them to participate, plus, a minimum donation of $15. 
+Participants simply submit their name, address, phone number, e-mail, social security number and the name and number of the one enrolling them to participate, plus, a minimum donation of $15. 
 <br>
 All donations are for yearly dues that are deducted from your credit card or billed, unless otherwise indicated.
 <br><br>
@@ -69,7 +69,7 @@ Enrollers of both participants and sponsors accrue all earnings but payments of 
 </td>
 
 <td>
-<br><br><br><br><b>OTHER </b>(Donation more than $100) <br>
+<br><br><br><br><b>MORE </b>(Donation more than $90) <br>
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_donations">
 <input type="hidden" name="business" value="all@worldpeacesociety.org">
@@ -112,9 +112,30 @@ Enrollers of both participants and sponsors accrue all earnings but payments of 
 </table>
 </td>
 
-<td width="50">
+
+<td width="40">
 </td>
 
+
+<!-- ADD new option -->
+
+<td>
+<br><br><br><br><b>MORE </b>(Sponsor more than $1000) <br>
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+<input type="hidden" name="cmd" value="_donations">
+<input type="hidden" name="business" value="all@worldpeacesociety.org">
+<input type="hidden" name="lc" value="US">
+<input type="hidden" name="item_name" value="World Peace Society">
+<input type="hidden" name="no_note" value="0">
+<input type="hidden" name="currency_code" value="USD">
+<input type="hidden" name="bn" value="PP-DonationsBF:btn_donateCC_LG.gif:NonHostedGuest">
+<input type="image" name="donate" src="http://www.growthdollars.com/images/order_now.jpg" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+</form>
+
+</td>
+
+<!-- ADD new option -->
 
 
 </tr>
