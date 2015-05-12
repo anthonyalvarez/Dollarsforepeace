@@ -69,7 +69,7 @@ Enrollers of both participants and sponsors accrue all earnings but payments of 
 </td>
 
 <td>
-<br><br><br><br><b>MORE </b>(Donation more than $90) <br>
+<br><br><br><br><b>MORE </b>(Participant donation over $90) <br>
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_donations">
 <input type="hidden" name="business" value="all@worldpeacesociety.org">
@@ -101,7 +101,7 @@ Enrollers of both participants and sponsors accrue all earnings but payments of 
 <table align="center">
 <tr><td><input type="hidden" name="on0" value="Payment Options"><b>Sponsor Donation</b></td></tr>
 <tr><td><select name="os0">
-    <option value="Option 5">$1,000.00 USD - yearly&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</option>
+    <option value="Option 5">$1,000 USD - yearly&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</option>
 </select> 
 </td>
 <td>
@@ -120,7 +120,7 @@ Enrollers of both participants and sponsors accrue all earnings but payments of 
 <!-- ADD new option -->
 
 <td>
-<br><br><br><br><b>MORE </b>(Sponsor more than $1000) <br>
+<br><br><br><br><b>MORE </b>(Sponsor donation over $1,000) <br>
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_donations">
 <input type="hidden" name="business" value="all@worldpeacesociety.org">
