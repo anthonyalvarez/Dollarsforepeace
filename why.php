@@ -65,7 +65,7 @@ Enrollers of both participants and sponsors accrue all earnings but payments of 
 </table>
 </td>
 
-<td width="50">
+<td width="30">
 </td>
 
 <td>
@@ -120,7 +120,7 @@ Enrollers of both participants and sponsors accrue all earnings but payments of 
 <!-- ADD new option -->
 
 <td>
-<br><br><br><br><b>MORE </b>(Sponsor donation over $1,000) <br>
+<br><br><br><br><br><b>MORE </b>(Sponsor donation over $1,000) <br>
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_donations">
 <input type="hidden" name="business" value="all@worldpeacesociety.org">
