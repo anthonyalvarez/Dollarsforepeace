@@ -48,7 +48,7 @@ If you want to send us a check, print this page, fill it out and send it with yo
 <b>Email</b> _____________________________________________________________
 <br>
 <br>
-<b>Social Security Number</b> ____________________________________________
+<b>Social Security Number</b> ______________________________________________
 <br>
 <br>
 <b>Enroller</b> __________________________________________________________ (Name + Number Preferred)
