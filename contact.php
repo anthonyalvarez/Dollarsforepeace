@@ -6,6 +6,10 @@ include("html_head.html");
 <font size="4"><b>CONTACT US</b></font></center>
 <br>
 <font size="3">
+	<center>
+	<table>
+		<tr>
+			<td>
 WE APPRECIATE YOUR COMMENTS AND QUESTIONS.
 <br>
 <br>
@@ -53,16 +57,27 @@ If you want to send us a check, print this page, fill it out and send it with yo
 <br>
 <b>Enroller</b> __________________________________________________________ (Name + Number Preferred)
 
+</td>
+</tr>
+</table>
+</center>
 <br>
 <br>
 <br>
+ </font>
+ <b>
+<font size="3">
+	<p align="center">
+	<a href="why.php">NEXT</a>
+	</p>
+	
 <?php
 include("navigation.html");
 ?>
 </tr>
 <tr><br>
  </font>
-
+</b>
     </tr>
     </table>
     </td>

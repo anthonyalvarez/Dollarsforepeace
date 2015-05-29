@@ -41,7 +41,16 @@ EndWarAndViolence.org
 <font size="3">
 <br>
 We suggest you completely read DollarsForPeace.org first, and then at your leisure look at the other sites starting with ValuDynamics.org. Viewing ValuDynamis.org will lead you to most of our other sites.
+</br>
+<!--
 <br><br>
+-->
+	<b>
+	<p align="center">
+	<a href="gains.php">NEXT</a>
+	</p>
+	
+	
 <?php
 include("navigation.html");
 ?>

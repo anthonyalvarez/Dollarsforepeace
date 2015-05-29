@@ -72,8 +72,13 @@ However, if others offer what they think are better plans, we welcome the ideas<
 Is hereby launching a major but simple effort<br>to get a large number of people to demand peace<br>so our
 <br>
 <b><u>LEADERS WILL KNOW THEY MUST IMPLEMENT SPECIFIC PLANS TO ACHIEVE PEACE</b></u>
-<br>
-<br><b>
+<!-- <br>
+<br> --> 
+<b>
+	<p>
+	<a href="why.php">NEXT</a>
+	</p>
+	
 <?php
 include("navigation.html");
 ?>

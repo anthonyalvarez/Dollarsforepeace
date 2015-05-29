@@ -77,11 +77,16 @@
 						<br />
 						THOSE WHO HELP US
 						<br />
-						CAN BENEFIT IN THEIR OWN LIVES AND MISSIONS TOO.
-
+						CAN BENEFIT IN THEIR OWN LIVES AND MISSIONS TOO.				
 					</center></b><font size="3"></td>
 			</tr>
-
+<tr>
+	<td align="center"><br />
+	<b>
+	<a href="sponsor.php">NEXT</a>
+	</b>
+	</td>
+</tr>
 			<tr id="footer-nav">
 				<td>
 				<br>
@@ -99,9 +104,14 @@
 					<a href="gains.php"> <font color="a91515">GAINS FOR ALL</font></a>
 					&nbsp;&nbsp;&nbsp;
 					<a href="sponsor.php"> <font color="a91515">SPONSORS</font></a>
-					&nbsp;&nbsp;&nbsp;
-					<a href="contact.php"> <font color="a91515">CONTACT US</font>
-				</b></a> </center> </td>
+					<br />
+<a href="wpspeaceprize.php">
+<font color="a91515">WPS PEACE PRIZE</font></a>
+&nbsp;&nbsp;&nbsp;
+<a href="contact.php">
+<font color="a91515">CONTACT US</font></b></a>
+</center>
+</td>
 			</tr>
 		</table>
 		<p align="center">

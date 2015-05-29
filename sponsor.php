@@ -157,10 +157,17 @@ with our approval
 <center>
 <font size="3"><b>
 <br>
-Other sponsors are both welcome and sought.
-<br>We also urge many to join us
-</b></center>
+Other sponsors are both welcome and sought.</br>
+<br>We also urge many to join us</br>
+</b>
+<!--
 <br><br>
+-->
+	<b>
+	<p>
+	<a href="wpspeaceprize.php">NEXT</a>
+	</p>
+	</center>
 <?php
 include("navigation.html");
 ?>

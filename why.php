@@ -23,7 +23,7 @@ All donations are for yearly dues that are deducted from your credit card or bil
 
 
 <center>
-<font size="4"><b>WHY SPONSOR?</b></font></center>
+<a id="SPONSOR"><font size="4"><b>WHY SPONSOR?</b></font></center></a>
 <br>
 <font size="3">
 Sponsors will be shown on the site, and initially in the order they join. Every few months we will update the site and show them first in the order of their contribution and then in the order of joining.  
@@ -146,11 +146,19 @@ Enrollers of both participants and sponsors accrue all earnings but payments of 
 <a href="contact.php"><b>Click here to send us a check</b></a>
 
 <br><br>
-<table>
-<tr>
-<td>
+ 
 
-<br><br><br><b>
+<table border="0">
+<tr>
+<td align="center">
+
+<!-- <br><br><br><b> -->
+	
+	<b>
+	<p align="center">
+	<a href="wps.php">NEXT</a>
+	</p>
+	
 <?php
 include("navigation.html");
 ?>
