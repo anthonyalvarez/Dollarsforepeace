@@ -50,11 +50,6 @@ body {
 	font-size: 9pt;
 }
 
-.footer {
-	background-color: inherit;
-	color: #999999;
-	font-size: 11px;
-}
 /* Pucho web Solutions additions: March 31, 2015*/
 
 .center {
@@ -69,4 +64,24 @@ body {
 }
 p.textunderline {
 	text-decoration: underline;
+}
+
+#nextlink {
+	text-align: center; 
+	color: #A91519; 
+	text-decoration-color: rgb(169, 21, 21);
+	color: rgb(169, 21, 21);
+	font-weight: bold;
+}
+
+#wpspeaceprizeclose
+{
+	text-align: center;
+	text-decoration: underline;
+	font-weight: bold;
+}
+
+.footer {
+	background-color: inherit;
+	font-size: 11px;
 }

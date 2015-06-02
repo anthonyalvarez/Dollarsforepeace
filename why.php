@@ -144,24 +144,17 @@ Enrollers of both participants and sponsors accrue all earnings but payments of 
 <br>
 <br>
 <a href="contact.php"><b>Click here to send us a check</b></a>
-
-<br><br>
- 
-
+<br /> 
 <table border="0">
 <tr>
-<td align="center">
-
-<!-- <br><br><br><b> -->
-	
-	<b>
-	<p align="center">
+<td id="nextlink">
 	<a href="wps.php">NEXT</a>
-	</p>
-	
+
+	<div style="text-align: center; font-weight: bold;"> 
 <?php
 include("navigation.html");
 ?>
+</div>
 </tr>
 <tr><br>
  </font>

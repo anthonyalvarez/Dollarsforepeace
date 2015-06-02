@@ -71,17 +71,19 @@ However, if others offer what they think are better plans, we welcome the ideas<
 <br>
 Is hereby launching a major but simple effort<br>to get a large number of people to demand peace<br>so our
 <br>
-<b><u>LEADERS WILL KNOW THEY MUST IMPLEMENT SPECIFIC PLANS TO ACHIEVE PEACE</b></u>
-<!-- <br>
-<br> --> 
-<b>
-	<p>
+<p style="text-align: center; font-weight: bold;"> 
+	LEADERS WILL KNOW THEY MUST IMPLEMENT SPECIFIC PLANS TO ACHIEVE PEACE
+</p>
+<br />
+	<div id="nextlink"><b>
 	<a href="why.php">NEXT</a>
-	</p>
-	
+	</b>
+	</div>
+<div style="text-align: center; font-weight: bold;"> 
 <?php
 include("navigation.html");
 ?>
+</div>
 </tr>
 <tr><br>
  </font>

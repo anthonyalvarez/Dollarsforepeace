@@ -61,19 +61,16 @@ If you want to send us a check, print this page, fill it out and send it with yo
 </tr>
 </table>
 </center>
-<br>
-<br>
-<br>
+<br />
  </font>
  <b>
 <font size="3">
-	<p align="center">
+	<div style="text-align: center" >
 	<a href="why.php">NEXT</a>
-	</p>
-	
 <?php
 include("navigation.html");
 ?>
+</div>
 </tr>
 <tr><br>
  </font>

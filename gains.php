@@ -89,9 +89,7 @@
 </tr>
 			<tr id="footer-nav">
 				<td>
-				<br>
-				<br>
-				<b>
+					<b>
 				<center>
 					<a href="index.php"> <font color="a91515">HOME</font></a>
 					&nbsp;&nbsp;&nbsp;

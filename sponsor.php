@@ -159,14 +159,12 @@ with our approval
 <br>
 Other sponsors are both welcome and sought.</br>
 <br>We also urge many to join us</br>
+<br />
 </b>
-<!--
-<br><br>
--->
 	<b>
-	<p>
+	<div>
 	<a href="wpspeaceprize.php">NEXT</a>
-	</p>
+	</div>
 	</center>
 <?php
 include("navigation.html");
