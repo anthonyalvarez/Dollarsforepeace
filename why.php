@@ -14,7 +14,7 @@ We also give an attractive incentive to participants who urge others to join our
 <br>
 Of the first $90 donated two-thirds is given to non-profit World Peace Society and one-third is earned by the enroller. Contributions in excess of $90 are divided 70% to non-profit World Peace Society and 30% to the enroller. <b>This program also offers a wonderful way to meet one&#39;s neighbors and make new friends.</b> 
 <br><br>
-Participants simply submit their name, address, phone number, e-mail, social security number and the name and number of the one enrolling them to participate, plus, a minimum donation of $15. 
+Participants simply submit their name, address, phone number, e-mail and the name and number of the one enrolling them to participate, plus, a minimum donation of $15. 
 <br>
 All donations are for yearly dues that are deducted from your credit card or billed, unless otherwise indicated.
 <br><br>

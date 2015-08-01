@@ -1,0 +1,13 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    Anthony E. Alvarez<name> -- Webmaster -- @AnthonyEAlvarez
+
+# THANKS
+
+
+# TECHNOLOGY COLOPHON
+
+    CSS, HTML, PHP, GIT, GitHub
