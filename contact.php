@@ -52,7 +52,8 @@ If you want to send us a check, print this page, fill it out and send it with yo
 <b>Email</b> _____________________________________________________________
 <br>
 <br>
-<b>Enroller</b> __________________________________________________________ (Name + Number Preferred)
+<b>Enroller Name (If there is one)</b> ___________________________________
+
 
 </td>
 </tr>
