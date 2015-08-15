@@ -52,7 +52,7 @@ If you want to send us a check, print this page, fill it out and send it with yo
 <b>Email</b> _____________________________________________________________
 <br>
 <br>
-<b>Enroller Name (If there is one)</b> ___________________________________
+<b>Enroller's Name + ID number, if there is one</b> _____________________
 
 
 </td>
