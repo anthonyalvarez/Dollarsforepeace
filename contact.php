@@ -14,9 +14,15 @@ WE APPRECIATE YOUR COMMENTS AND QUESTIONS.
 <br>
 <br>
 
+<!--
 Email: <a href="mailto:all@worldpeacesociety.org"><font size="3">(click here) all@worldpeacesociety.org</font></a>
-<br>
-<br>
+-->
+
+To email your comments <a href="mailto:all@worldpeacesociety.org">click here.</a>
+<br />
+Or to send us a check, print and fill out this page and send via conventional mail with your filled out check.
+<br />
+<br />
 
 Address:
 <br>
@@ -52,7 +58,7 @@ If you want to send us a check, print this page, fill it out and send it with yo
 <b>Email</b> ______________________________________________________________
 <br>
 <br>
-<b>Enroller's Name + ID number, if there is one</b> _____________________________
+<b>Enroller's Name + ID No., if there is one</b> _________________________________
 </td>
 </tr>
 </table>
