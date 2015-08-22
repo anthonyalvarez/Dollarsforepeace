@@ -9,7 +9,7 @@ include("html_head.html");
 	<center>
 	<table>
 		<tr>
-			<td>
+			<td><font size="3">
 WE APPRECIATE YOUR COMMENTS AND QUESTIONS.
 <br>
 <br>
@@ -19,8 +19,8 @@ Email: <a href="mailto:all@worldpeacesociety.org"><font size="3">(click here) al
 -->
 
 To email your comments <a href="mailto:all@worldpeacesociety.org">click here.</a>
-<br />
-Or to send us a check, print and fill out this page and send via conventional mail with your filled out check.
+<p style="text-indent: 100px;">or</p>
+To send us a check, complete this page, print it, and send via conventional mail with your filled out check.
 <br />
 <br />
 
@@ -35,13 +35,13 @@ New York, NY 10023
 <br>
 <br>
 
-Tel.: 1-212-873-9277
+Tel.: 1-212-873-9277</font>
 <br>
 </font>
 <br>
 <br>
 <font size="3">
-If you want to send us a check, print this page, fill it out and send it with your check.
+If you want to remit by check, fill it out this page, print it, and mail with your check.
 </font>
 <br>
 <br>
@@ -58,7 +58,7 @@ If you want to send us a check, print this page, fill it out and send it with yo
 <b>Email</b> ______________________________________________________________
 <br>
 <br>
-<b>Enroller's Name + ID No., if there is one</b> _________________________________
+<b>Enroller's Name + ID No., if there is one</b>  _________________________________
 </td>
 </tr>
 </table>
