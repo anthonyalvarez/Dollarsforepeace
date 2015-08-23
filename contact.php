@@ -46,6 +46,9 @@ If you want to remit by check, fill out this page, print it, and mail with your 
 <br>
 <br>
 <font size="2">
+<br>
+<br>
+	
 <b>Name:</b> <hr style ="width: 77%;text-align:left; margin: 0 auto 0 0">
 <br>
 <br>
@@ -63,6 +66,7 @@ If you want to remit by check, fill out this page, print it, and mail with your 
 <br>
 <br>
 <b>Enroller's Name + ID No., if there is one:</b><hr style ="width: 77%;text-align:left; margin: 0 auto 0 0">
+
 </td>
 </tr>
 </table>
