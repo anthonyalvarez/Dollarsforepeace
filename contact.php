@@ -41,24 +41,28 @@ Tel.: 1-212-873-9277</font>
 <br>
 <br>
 <font size="3">
-If you want to remit by check, fill it out this page, print it, and mail with your check.
+If you want to remit by check, fill out this page, print it, and mail with your check.
 </font>
 <br>
 <br>
 <font size="2">
-<b>Name</b> ______________________________________________________________
+<b>Name:</b> <hr style ="width: 77%;text-align:left; margin: 0 auto 0 0">
 <br>
 <br>
-<b>Address</b> ____________________________________________________________
+<b>Address:</b><hr style ="width: 77%;text-align:left; margin: 0 auto 0 0"> 
 <br>
 <br>
-<b>Phone Number</b> ______________________________________________________
+<br>
+<hr style ="width: 77%;text-align:left; margin: 0 auto 0 0">
 <br>
 <br>
-<b>Email</b> ______________________________________________________________
+<b>Phone Number:</b><hr style ="width: 77%;text-align:left; margin: 0 auto 0 0">
 <br>
 <br>
-<b>Enroller's Name + ID No., if there is one</b>  _________________________________
+<b>Email:</b><hr style ="width: 77%;text-align:left; margin: 0 auto 0 0">
+<br>
+<br>
+<b>Enroller's Name + ID No., if there is one:</b><hr style ="width: 77%;text-align:left; margin: 0 auto 0 0">
 </td>
 </tr>
 </table>
